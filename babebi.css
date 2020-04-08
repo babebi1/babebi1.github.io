@@ -77,7 +77,6 @@ color:white;
 
 .granda{
 margin: 0 auto;
-     width: 70%; 
     min-height: 100vh;
 }
 
@@ -178,8 +177,4 @@ width:30%;
 }
 
 
-@media (max-width: 800px) {
-img {
-	width:"400px";
-}
-}
+
