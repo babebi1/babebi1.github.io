@@ -1,5 +1,5 @@
 body{
-margin:20px;
+margin:0px;
 font-family: 'Lato', sans-serif;
 }
 
@@ -23,6 +23,13 @@ h2{
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
+
+h3{
+	font-size:40px;
+	color:white;
+	
+}
+
 
 
 a{
@@ -49,6 +56,8 @@ margin-top:5px;
 margin: 0 auto;
      width: 65%; 
     min-height: 100vh;
+     padding-top:5%;
+    padding-bottom:5%;
 }
 
 .exercice {
@@ -68,14 +77,16 @@ background-position: top;
 background-color: #ff575b;
 font-size: 20px;
 color:white;
-	letter-spacing: 4px;
-	padding :30px;
-
+letter-spacing: 4px;
+padding :75px;
+min-height: 100vh;
+margin:0;
 
 }
 
 
 .granda{
+	padding-top:20px;
 margin: 0 auto;
 max-width:65%;
     min-height: 100vh;
@@ -122,6 +133,25 @@ border:solid;
 
 }
 
+.boutonb{
+	margin-top:20px;
+	padding:10px;
+color:white;
+border:solid;
+	border-width: 2px;
+	border-color:white;
+	width: 120px;
+
+}
+
+.boutonb:hover{
+border:solid;
+	border-width: 1px;
+	border-color:white;
+	background: white;
+	color:#ff575b;
+
+}
 
 
 .grand2 {
@@ -130,7 +160,7 @@ margin: 0 auto;
 }
 
 .soustitre {
-font-size:16px;
+font-size:20px;
 margin-top: 5px;
 margin-bottom: 0px;
 padding-bottom: 0px;
@@ -162,6 +192,7 @@ width:70%;
 display: inline-block;
 float:left;
 width:70%;
+padding-right: 30px;
 }
 
 .droiteb {
@@ -172,7 +203,8 @@ width:30%;
 
 .end{
 	margin:0 auto;
-	margin-top:30px;
+	margin-top:25px;
+	margin-bottom:25px;
 	text-align: center;
 	color:#ff575b;
 	letter-spacing: 2px;
