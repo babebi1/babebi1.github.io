@@ -1,0 +1,179 @@
+body{
+margin:25px;
+font-family: 'Lato', sans-serif;
+}
+
+p {
+	font-size: 16px;
+	color:black;
+}
+
+h1{
+	font-size:26px;
+	color:#ff575b;
+	margin-bottom: 20px;
+		margin-top: 20px;
+		text-align: center;
+		letter-spacing: 2px;
+}
+
+h2{
+	font-size:20px;
+	color:#ff575b;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+
+a{
+  outline: none;
+text-decoration: 
+}
+
+a:h{
+  outline: none;
+text-decoration: 
+}
+
+.legendevideo{
+margin-top:5px;
+}
+
+.containerexercices{
+	background: white;
+	overflow:auto;
+}
+
+
+.grandexercice{
+margin: 0 auto;
+     width: 65%; 
+    min-height: 100vh;
+}
+
+.exercice {
+
+margin-top: 10px;
+margin-bottom: 10px;
+padding-left :30px;
+padding-right: 30px;
+padding-top:10px;
+padding-bottom:10px;
+width: 100%;
+}
+
+
+.lecon {
+background-position: top;
+background-color: #ff575b;
+font-size: 20px;
+color:white;
+	letter-spacing: 4px;
+	padding :30px;
+
+
+}
+
+
+.granda{
+margin: 0 auto;
+     width: 65%; 
+    min-height: 100vh;
+}
+
+.grandrappel{
+margin: 0 auto;
+     width: 65%; 
+    min-height: 100vh;
+    padding-top:10%;
+    padding-bottom:10%;
+}
+
+.rappel {
+	background: white;
+	margin : 0 auto;
+	padding :30px;
+	border:solid;
+	border-width: 1px;
+	border-color:#626567;
+	width:70%;
+	box-shadow: 20px 10px #ff575b;
+}
+
+.bouton{
+	margin-top:20px;
+	padding:10px;
+color:#ff575b;
+border:solid;
+	border-width: 2px;
+	border-color:#ff575b;
+	width: 120px;
+
+}
+
+.bouton:hover{
+border:solid;
+	border-width: 1px;
+	border-color:#ff575b;
+	background: #ff575b;
+	color:white;
+
+}
+
+
+
+.grand2 {
+margin: 0 auto;
+     width: 65%; 
+}
+
+.soustitre {
+font-size:16px;
+margin-top: 5px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+color:#ff575b;
+}
+
+.chrono {
+font-size:14px;
+font-style: italic;
+margin-top: 0px;
+padding-top: 0px;
+}
+
+
+
+.gauche {
+	display: inline-block;
+float:left;
+width:30%;
+}
+
+.droite {
+		display: inline-block;
+		float:left;
+width:70%;
+}
+
+.gaucheb {
+display: inline-block;
+float:left;
+width:70%;
+}
+
+.droiteb {
+		display: inline-block;
+		float:left;
+width:30%;
+}
+
+.end{
+	margin:0 auto;
+	margin-top:30px;
+	text-align: center;
+	color:#ff575b;
+	letter-spacing: 2px;
+	font-size: 18px;
+}
+
