@@ -80,7 +80,7 @@ width: 100%;
 .granda{
 	padding-top:20px;
 margin: 0 auto;
-max-width:65%;
+max-width:45%;
     min-height: 100vh;
 }
 
@@ -259,6 +259,7 @@ border:solid;
 	color:white;
 
 }
+
 
 @media screen and (max-width: 600px) {
   .granda{
