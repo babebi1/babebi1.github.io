@@ -262,10 +262,21 @@ border:solid;
 
 
 @media screen and (max-width: 600px) {
-  .granda{
-	padding-top:20px;
-margin: 0 auto;
-max-width:90%;
-    min-height: 100vh;
+
+.granda{
+max-width:95%;
 }
+
+.grandrappel{
+     width: 100%; 
+}
+
+.grandexercice{
+     width: 100%; 
+}
+
+.lecon {
+padding :15px;
+}
+
 }
