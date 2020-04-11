@@ -1,0 +1,91 @@
+body{
+margin:0px;
+font-family: 'Lato', sans-serif;
+width:100%;
+}
+
+
+h1{
+	font-size:26px;
+	color:white;
+	margin-bottom: 20px;
+		text-align: center;
+		letter-spacing: 2px;
+		font-weight: 600;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.menu{
+font-size:16px;
+font-weight: 600;
+color:#ff575b;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+
+.menu:hover{
+font-size:16px;
+font-weight: 600;
+color:#ff575b;
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: underline;
+}
+
+
+.landing {
+margin: 0 auto;
+padding-top:10px;
+width:100%;
+min-height: 100vh;
+background: white;
+}
+
+.bandeau{
+background: rgb(255,87,91);
+background: linear-gradient(180deg, rgba(255,87,91,1) 0%, rgba(255,106,40,1) 62%);
+
+width:100%;
+margin-left:0;
+margin-right: 0;
+margin-top:1%;
+margin-bottom: 1%;
+padding-top: 12%;
+padding-bottom: 18%;
+}
+
+
+.baseline {
+	font-size: 16px;
+	color:white;
+}
+
+.bouton{
+display: inline;
+margin-left:5px;
+margin-right: 5px;
+padding:10px;
+color:white;
+border:solid;
+border-width: 2px;
+border-color:#white;
+	text-decoration: none;
+}
+
+.bouton:hover{
+border:solid;
+	border-width: 1px;
+	border-color:#ff575b;
+	background: white;
+	color:#ff575b;
+	text-decoration: none;
+
+}

@@ -37,6 +37,16 @@ h5{font-size: 30px;
 }
 
 
+h6{
+	font-size:26px;
+	color:#ff575b;
+	margin-bottom: 20px;
+		margin-top: 20%;
+		text-align: center;
+		letter-spacing: 2px;
+		font-weight: 600;
+}
+
 a{
   outline: none;
 text-decoration: 
@@ -78,7 +88,12 @@ max-width:45%;
     min-height: 100vh;
 }
 
-
+.landing{
+	padding-top:20px;
+margin: 0 auto;
+max-width:80%;
+    min-height: 100vh;
+}
 
 .grandrappel{
 margin: 0 auto;
@@ -256,9 +271,14 @@ border:solid;
 }
 
 
+
 @media screen and (max-width: 600px) {
 
 .granda{
+max-width:95%;
+}
+
+.landing{
 max-width:95%;
 }
 
@@ -276,3 +296,6 @@ font-size: 14px;
 }
 
 }
+
+
+
