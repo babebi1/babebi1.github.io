@@ -70,10 +70,7 @@ background: rgb(255,87,91);
 background: linear-gradient(180deg, rgba(255,87,91,1) 0%, rgba(255,106,40,1) 62%);
 
 width:100%;
-margin-left:0;
-margin-right: 0;
-margin-top:1%;
-margin-bottom: 1%;
+
 padding-top: 12%;
 padding-bottom: 18%;
 }
