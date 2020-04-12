@@ -12,6 +12,8 @@ h1{
 		text-align: center;
 		letter-spacing: 2px;
 		font-weight: 600;
+		margin-left:5%;
+		margin-right: 5%;
 }
 
 h2{
@@ -167,6 +169,7 @@ letter-spacing: 4px;
 .bandeau{
 	padding-top:2%;
 	padding-bottom: 2%;
+	margin:0 auto;
 }
 
 }
