@@ -158,20 +158,5 @@ letter-spacing: 4px;
 
 
 
-@media screen and (max-width: 600px) {
 
-.h1{
-	font-size:16px;
-	margin-left:10px;
-	margin-right: 10px;
-}
-
-.bandeau{
-	padding-top:2%;
-	padding-bottom: 2%;
-	margin:0 auto;
-	width:80%;
-}
-
-}
 
