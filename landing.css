@@ -14,6 +14,13 @@ h1{
 		font-weight: 600;
 }
 
+h2{
+	font-size:20px;
+	color:#ff575b;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+
 a{
 	text-decoration: none;
 }
@@ -22,12 +29,17 @@ a:hover{
 	text-decoration: none;
 }
 
+.logo{
+padding-left:20px;
+}
+
+
 .menu{
 font-size:16px;
 font-weight: 600;
 color:#ff575b;
-padding-left: 10px;
-padding-right: 10px;
+padding-left: 0px;
+padding-right: 20px;
 
 }
 
@@ -35,13 +47,15 @@ padding-right: 10px;
 font-size:16px;
 font-weight: 600;
 color:#ff575b;
-padding-left: 10px;
-padding-right: 10px;
+padding-left: 0px;
+padding-right: 20px;
 text-decoration: underline;
 }
 
 
 .landing {
+
+display: inline-block;
 margin: 0 auto;
 padding-top:10px;
 width:100%;
@@ -66,16 +80,19 @@ padding-bottom: 18%;
 .baseline {
 	font-size: 16px;
 	color:white;
+	margin:0 auto;
+		text-align: center;
 }
 
 .bouton{
-display: inline;
+display: inline-block;
 margin-left:5px;
 margin-right: 5px;
+margin-bottom:10px;
 padding:10px;
 color:white;
 border:solid;
-border-width: 2px;
+border-width: 1px;
 border-color:#white;
 	text-decoration: none;
 }
@@ -84,8 +101,55 @@ border-color:#white;
 border:solid;
 	border-width: 1px;
 	border-color:#ff575b;
-	background: white;
 	color:#ff575b;
 	text-decoration: none;
+	background: white;
+}
 
+.boutonb{
+display: inline-block;
+margin-left:0px;
+margin-right: 5px;
+margin-bottom:10px;
+margin-top:10px;
+padding:5px;
+color:#ff575b;
+border:solid;
+border-width: 1px;
+border-color:#ff575b;;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.boutonb:hover{
+border:solid;
+	border-width: 1px;
+	border-color:#ff575b;
+	background: rgb(255,87,91);
+background: linear-gradient(180deg, rgba(255,87,91,1) 0%, rgba(255,106,40,1) 62%);
+	color:white;
+	text-decoration: none;
+font-size: 14px;
+}
+
+.formats{
+	background: white;
+	margin : 0 auto;
+	padding :30px;
+	width:90%;
+	margin-top:5%;
+
+}
+
+.notions{
+background: rgb(255,87,91);
+background: linear-gradient(180deg, rgba(255,87,91,1) 0%, rgba(255,106,40,1) 62%);
+	margin : 0 auto;
+	margin-top:5%;
+	padding :50px;
+	width:90%;
+	color:white;
+	font-size: 20px;
+color:white;
+letter-spacing: 4px;
 }
