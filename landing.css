@@ -153,5 +153,31 @@ letter-spacing: 4px;
 
 
 
+.module{
+	background-color: white;
+border:solid;
+	border-width: 1px;
+	border-color:#ff575b;
+	margin : 0 auto;
+	margin-top:5%;
+	padding :50px;
+	width:90%;
+	color:#ff575b;
+	font-size: 20px;
+letter-spacing: 4px;
+height: 250px;
+}
 
+.module:hover{
+background: rgb(255,87,91);
+background: linear-gradient(180deg, rgba(255,87,91,1) 0%, rgba(255,106,40,1) 62%);
+	margin : 0 auto;
+	margin-top:5%;
+	padding :50px;
+	width:90%;
+	color:white;
+	font-size: 20px;
+letter-spacing: 4px;
+height: 250px;
+}
 
