@@ -374,19 +374,17 @@ padding-bottom: 10px;
 	display:none;
 }
 
+
+.imagehome{
+display:none;
+}
+
 .baseline{
-	line-height: 1em;
+	line-height: 1.5em;
 				margin-bottom: 20px;
 
 }
 
-.bouton{
-	margin:0 auto;
-}
-
-.boutoninverse{
-	margin:0 auto;
-}
 
 
 
