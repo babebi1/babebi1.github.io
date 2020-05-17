@@ -374,6 +374,20 @@ padding-bottom: 10px;
 	display:none;
 }
 
+.baseline{
+	line-height: 1em;
+}
+
+.bouton{
+	margin:0 auto;
+}
+
+.boutoninverse{
+	margin:0 auto;
+}
+
+
+
 .rappelbabebi{
 	margin-top:40px;
 }
